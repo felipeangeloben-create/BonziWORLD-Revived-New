@@ -1,3 +1,13 @@
+# BonziWORLD Revived
+
+This respository is a fork of the [original](https://github.com/Seamusmario/BonziWORLD-Revived). It will be updated frequently to be fully secure and fix problems with either the server or the client.
+
+This project was discontinued by siobhan-saoirse due to his time being taken up by other responsibilities.
+
+The offical website has closed down, but this responistory will still remain unarchived for upcoming updates later (maybe?).
+
+All the source code for the server and client is publically available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. _Just try to put me somewhere in the credits._
+
 ## Dependencies
 - Node.js and npm
 - Ruby

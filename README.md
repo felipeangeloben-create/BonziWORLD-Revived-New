@@ -1,8 +1,8 @@
 # BonziWORLD Revived
 
-This respository is a fork of the [original](https://github.com/Seamusmario/BonziWORLD-Revived). It will be updated frequently to be fully secure and fix problems with either the server or the client.
+This respository is a fork of the [original](https://github.com/siobhan-saoirse/BonziWORLD-Revived). It will be updated frequently to be fully secure and fix problems with either the server or the client.
 
-This project was discontinued by siobhan-saoirse due to his time being taken up by other responsibilities.
+This project was discontinued by [siobhan-saoirse](https://github.com/siobhan-saoirse) due to his time being taken up by other responsibilities.
 
 The offical website has closed down, but this responistory will still remain unarchived for upcoming updates later (maybe?).
 

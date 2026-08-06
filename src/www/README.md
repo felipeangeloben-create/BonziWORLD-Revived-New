@@ -5,13 +5,13 @@
 
 ###### Leading the industry in gorilla-based chat clients.
 
-## What the hell is this?
+## What is this?
 
 BonziWORLD is a node.js and socket.io based chat client featuring everyone's most ~~hated~~ and/or loved purple gorilla. The client also uses speak.js to provide text-to-speech voices. Not exactly the original BonziBUDDY voice, but hey, it works.
 
-## Why did you make this? Why WOULD you make this?
+## Why did you make this?
 
-Memes. Also because I'd already finished the BonziBUDDY portion of this project like a year in advance and was trying to find some way to put it to use.
+Memes. Also because the creator already finished the BonziBUDDY portion of this project like a year in advance and was trying to find some way to put it to use.
 
 ## How do I use it?
 

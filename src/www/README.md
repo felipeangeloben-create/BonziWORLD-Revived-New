@@ -1,4 +1,4 @@
-[logo]: ./build/www/img/readme/logo.png
+[logo]: ./img/readme/logo.png
 ![BonziWORLD Revived Logo.][logo]
 
 # BonziWORLD

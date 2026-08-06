@@ -9,6 +9,7 @@ All the source code for the server and client is publicly available here. If you
 ## Dependencies
 - Node.js and npm
 - Ruby
+- Scss
 - Sass
 - Git
 - Cordova (Optional)

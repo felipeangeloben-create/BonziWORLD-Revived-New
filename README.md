@@ -4,7 +4,7 @@ This repository is a fork of the [original](https://github.com/siobhan-saoirse/B
 
 The offical website has closed down, but this responistory will still remain unarchived for upcoming updates later.
 
-All the source code for the server and client is publically available here. If you want to run your own BonziWORLD Revived, by all means go ahead. Do whatever you'd like with this code. _Just try to put me somewhere in the credits._
+All the source code for the server and client is publicly available here. If you want to run your own BonziWORLD Revived, by all means go ahead. Do whatever you'd like with this code. _Just try to put me somewhere in the credits._
 
 ## Dependencies
 - Node.js and npm

@@ -16,7 +16,7 @@ All the source code for the server and client is publicly available here. If you
 - Winston
 
 ## Setup
-In a terminal/command prompt, navigate to where you'd like BonziWORLD Revived to be placed and run the following:
+In a terminal and/or command prompt, navigate to where you'd like BonziWORLD Revived to be placed and run the following:
 ```
 git clone https://github.com/felipeangeloben-create/BonziWORLD-Revived-New
 cd BonziWORLD-Revived-New

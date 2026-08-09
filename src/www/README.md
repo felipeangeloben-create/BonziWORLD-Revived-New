@@ -1,13 +1,13 @@
 [logo]: ./img/readme/logo.png
 ![BonziWORLD Revived Logo.][logo]
 
-# BonziWORLD
+# BonziWORLD Revived
 
 ###### Leading the industry in gorilla-based chat clients.
 
 ## What is this?
 
-BonziWORLD is a node.js and socket.io based chat client featuring everyone's most ~~hated~~ and/or loved purple gorilla. The client also uses speak.js to provide text-to-speech voices. Not exactly the original BonziBUDDY voice, but hey, it works.
+BonziWORLD Revived is a node.js and socket.io based chat client featuring everyone's most ~~hated~~ and/or loved purple gorilla. The client also uses speak.js to provide text-to-speech voices. Not exactly the original BonziBUDDY voice, but hey, it works.
 
 ## Why did you make this?
 
@@ -65,7 +65,7 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 
 ## Are there any rules?
 
-Obviously no illegal shit. On top of that, there are a few limitations:
+Obviously, No illegal content. On top of that, there are a few limitations:
 
 * All strings are sanitized to get rid of any malicious HTML/JS/CSS.
 * There is a 2500 character limit in public rooms and a 5000 limit in private rooms.

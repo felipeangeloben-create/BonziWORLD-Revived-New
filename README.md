@@ -2,7 +2,7 @@
 
 This repository is a fork of the [original](https://github.com/siobhan-saoirse/BonziWORLD-Revived). It will be updated frequently to be fully secure and fix problems with either the server or the client.
 
-The offical website has closed down, but the server will return soon though, maybe.
+The offical website has closed down, but the server will return soon though, maybe...
 
 All the source code for the server and client is publicly available here. If you want to run your own BonziWORLD Revived, by all means go ahead. Do whatever you'd like with this code. _Just try to put me somewhere in the credits._
 

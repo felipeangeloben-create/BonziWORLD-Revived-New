@@ -1,4 +1,4 @@
-// why copy and paste
+// Why, copy and paste?
 
 const Winston = require('winston');
 const path = require('path');

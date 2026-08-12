@@ -49,7 +49,7 @@ var settingsSantize = {
 } 
   
 var stickers = {
-    sad:"so sad",
+    sad:"so sad.",
     bonzi:"BonziBUDDY",
     host:"host is a bathbomb",
     spook:"ew i'm spooky",
@@ -58,9 +58,9 @@ var stickers = {
     flatearth:"this is true, and you cant change my opinion",
     swag:"look at my swag!",
     topjej:"toppest jej",
-    cyan:"cyan is yellow? no!",
+    cyan:"cyan is yellow",
     flip:"toppest jej",
-    sans:"cyan is yellow? no!",
+    sans:"screw this!",
     no:"nope!",
     bye:"bye i'm leaving",
     kiddie:"kiddie",

@@ -73,6 +73,7 @@ const Utils = require("./utils.js");
 const io = require('./index.js').io;
 const settings = require("./settings.json");
 const sanitize = require('sanitize-html');
+const Profanity = require('./profanity.js');
 var onCooldown = false;
 var onloginCooldown = false;
 let roomsPublic = [];
@@ -1330,6 +1331,7 @@ class User {
         }else{
             text = this.private.sanitize ? sanitize(data.text+"",settingsSantize) : data.text;
         }
+		text = Profanity.filter(text);
         if ((text.length <= this.room.prefs.char_limit) && (text.length > 0)) {
             this.room.emit('talk', {
                 guid: this.guid,

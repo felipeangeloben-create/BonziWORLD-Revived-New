@@ -52,7 +52,6 @@ If you see any brackets, they indicate a placeholder. Don't type them in.
 * `/asshole [name]` - Call someone an asshole.
 	* Don't ask why I implemented this. There's no answer.
 	* You can also right click on people to do the same thing.
-	* If you ever see a person named "fuG", make sure to call them an asshole.
 * `/owo [name]` - owo, wat dis?
 	* kill me
 	* Works pretty much the same as /asshole, right click and all.

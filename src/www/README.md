@@ -93,7 +93,6 @@ Remember that people can play YouTube videos whenever they want. **Keep your vol
 * realfavicongenerator.net
 * Apache Cordova
 * ~~Crosswalk~~ RIP CROSSWALK v1.?.? - v1.4.2
-* scss
-* sass
+* scss/sass
 
 You guys are awesome. (And so are you, whoever's reading this!) There are also probably some others I forgot. If I remember you, I'll add you here.

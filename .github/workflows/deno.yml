@@ -10,9 +10,9 @@ name: Deno
 
 on:
   push:
-    branches: ["master"]
+    branches: ["remake"]
   pull_request:
-    branches: ["master"]
+    branches: ["remake"]
 
 permissions:
   contents: read
